@@ -73,7 +73,7 @@ Refer to the code files and comments within the repository for detailed understa
 ## 📸 Demo
 
 🎥 **Watch the project in action!**  
-[![Face Mask Detection Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.loom.com/share/bd40cdbb3b38406e85c57beb72f269fe?sid=7a2bfc8d-a0ca-472e-9be3-cd6883bad0e8)
+[![Face Mask Detection Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]()
 
 
 ---
